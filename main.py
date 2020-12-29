@@ -1,4 +1,4 @@
-def add(x, y, z):
-    return z / (x + y)
+def add(x, y):
+    return x + y
 
-print (add(5,2,70))
+print (add(11, 23))
